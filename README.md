@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Karam-ai-powered-todo
-=======
 # ai-academic-helper
 # AcadPilot - AI-Powered Academic Assistant
 
